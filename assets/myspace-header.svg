@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 950 110" width="100%" height="110">
+  <defs>
+    <linearGradient id="headerGrad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#003366"/>
+      <stop offset="60%" stop-color="#002244"/>
+      <stop offset="100%" stop-color="#001830"/>
+    </linearGradient>
+    <linearGradient id="navGrad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#41739d"/>
+      <stop offset="50%" stop-color="#1b4d79"/>
+      <stop offset="100%" stop-color="#0f3456"/>
+    </linearGradient>
+    <linearGradient id="btnSearchGrad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#e6e6e6"/>
+      <stop offset="100%" stop-color="#b0b0b0"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Top Blue Main Header -->
+  <rect width="950" height="75" fill="url(#headerGrad)"/>
+  
+  <!-- MySpace Logo & Tagline -->
+  <g transform="translate(25, 14)">
+    <!-- 3 Friends Silhouette Logo -->
+    <circle cx="12" cy="14" r="5.5" fill="#ffffff"/>
+    <path d="M 5 28 C 5 21, 19 21, 19 28 Z" fill="#ffffff"/>
+    <circle cx="25" cy="11" r="7" fill="#ff9900"/>
+    <path d="M 16 28 C 16 19, 34 19, 34 28 Z" fill="#ff9900"/>
+    <circle cx="38" cy="14" r="5.5" fill="#ffffff"/>
+    <path d="M 31 28 C 31 21, 45 21, 45 28 Z" fill="#ffffff"/>
+    
+    <!-- myspace.com text -->
+    <text x="56" y="27" font-family="'Trebuchet MS', Arial, sans-serif" font-size="28" font-weight="900" fill="#ffffff" letter-spacing="-0.5">
+      myspace<tspan fill="#ff9900">.com</tspan>
+    </text>
+    <text x="58" y="42" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#bfd9f2" font-style="italic">
+      a place for developers &amp; retro lovers
+    </text>
+  </g>
+
+  <!-- Search Bar on Top Right -->
+  <g transform="translate(620, 20)">
+    <text x="0" y="16" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#ffffff">The Web | MySpace</text>
+    <rect x="0" y="24" width="220" height="20" fill="#ffffff" stroke="#999999" stroke-width="1"/>
+    <text x="6" y="38" font-family="Arial, sans-serif" font-size="10" fill="#666666">AndresDoomer / Repos</text>
+    
+    <!-- Search Button -->
+    <rect x="225" y="24" width="65" height="20" rx="2" fill="url(#btnSearchGrad)" stroke="#555555" stroke-width="1"/>
+    <text x="238" y="38" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#222222">Search</text>
+  </g>
+
+  <!-- Navigation Bar (Sub Header) -->
+  <rect y="75" width="950" height="35" fill="url(#navGrad)" stroke="#6fa5d2" stroke-width="1"/>
+  <text x="475" y="98" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="bold" fill="#ffffff" text-anchor="middle" letter-spacing="0.5">
+    Home &nbsp;|&nbsp; Browse &nbsp;|&nbsp; Search &nbsp;|&nbsp; Invite &nbsp;|&nbsp; Film &nbsp;|&nbsp; Mail &nbsp;|&nbsp; Blog &nbsp;|&nbsp; Favorites &nbsp;|&nbsp; Forum &nbsp;|&nbsp; Groups &nbsp;|&nbsp; Events &nbsp;|&nbsp; Videos &nbsp;|&nbsp; Music &nbsp;|&nbsp; Classifieds
+  </text>
+</svg>

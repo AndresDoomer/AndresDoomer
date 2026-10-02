@@ -1,0 +1,147 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 680 130" width="100%" height="130">
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#4a4d52"/>
+      <stop offset="50%" stop-color="#2a2c30"/>
+      <stop offset="100%" stop-color="#18191c"/>
+    </linearGradient>
+    <linearGradient id="screenGrad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#0a180f"/>
+      <stop offset="100%" stop-color="#020a05"/>
+    </linearGradient>
+    <linearGradient id="btnGrad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#70757d"/>
+      <stop offset="50%" stop-color="#404347"/>
+      <stop offset="100%" stop-color="#222427"/>
+    </linearGradient>
+    <linearGradient id="accentOrange" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#ff7b00"/>
+      <stop offset="100%" stop-color="#ffaa00"/>
+    </linearGradient>
+  </defs>
+
+  <style>
+    .title-text { font-family: 'Courier New', monospace; font-size: 11px; fill: #00ff66; letter-spacing: 1px; }
+    .song-text { font-family: 'Courier New', monospace; font-size: 13px; font-weight: bold; fill: #55ff99; letter-spacing: 0.5px; }
+    .label-text { font-family: Arial, sans-serif; font-size: 10px; font-weight: bold; fill: #ff9900; }
+    .btn-icon { fill: #d0d4dc; }
+    
+    @keyframes bounce1 { 0%, 100% { height: 6px; y: 38px; } 50% { height: 26px; y: 18px; } }
+    @keyframes bounce2 { 0%, 100% { height: 24px; y: 20px; } 50% { height: 8px; y: 36px; } }
+    @keyframes bounce3 { 0%, 100% { height: 14px; y: 30px; } 50% { height: 30px; y: 14px; } }
+    @keyframes bounce4 { 0%, 100% { height: 28px; y: 16px; } 50% { height: 10px; y: 34px; } }
+    @keyframes bounce5 { 0%, 100% { height: 8px; y: 36px; } 50% { height: 24px; y: 20px; } }
+    @keyframes bounce6 { 0%, 100% { height: 22px; y: 22px; } 50% { height: 14px; y: 30px; } }
+    @keyframes bounce7 { 0%, 100% { height: 18px; y: 26px; } 50% { height: 30px; y: 14px; } }
+    @keyframes bounce8 { 0%, 100% { height: 26px; y: 18px; } 50% { height: 6px; y: 38px; } }
+
+    .bar1 { animation: bounce1 0.7s infinite ease-in-out; }
+    .bar2 { animation: bounce2 0.6s infinite ease-in-out; }
+    .bar3 { animation: bounce3 0.85s infinite ease-in-out; }
+    .bar4 { animation: bounce4 0.65s infinite ease-in-out; }
+    .bar5 { animation: bounce5 0.9s infinite ease-in-out; }
+    .bar6 { animation: bounce6 0.75s infinite ease-in-out; }
+    .bar7 { animation: bounce7 0.55s infinite ease-in-out; }
+    .bar8 { animation: bounce8 0.8s infinite ease-in-out; }
+
+    @keyframes pulseLed { 0%, 100% { opacity: 0.4; } 50% { opacity: 1; } }
+    .rec-led { animation: pulseLed 1.2s infinite; }
+  </style>
+
+  <!-- Outer Chassis (Plastic / Metal Bevel) -->
+  <rect x="2" y="2" width="676" height="126" rx="8" fill="url(#bgGrad)" stroke="#666a73" stroke-width="2"/>
+  <rect x="4" y="4" width="672" height="122" rx="6" fill="none" stroke="#111214" stroke-width="1.5"/>
+
+  <!-- Top Logo Bar -->
+  <text x="18" y="22" font-family="'Trebuchet MS', Arial, sans-serif" font-size="13" font-weight="900" fill="#ffffff" letter-spacing="1">
+    My<tspan fill="#ff9900">Space</tspan><tspan fill="#a0a5ad" font-size="11" font-weight="normal"> | Music Player v2.4 (Doomer Edition)</tspan>
+  </text>
+  
+  <circle cx="650" cy="18" r="5" fill="#00ff66" class="rec-led" filter="drop-shadow(0 0 3px #00ff66)"/>
+  <text x="605" y="21" font-family="Arial, sans-serif" font-size="9" fill="#00ff66" font-weight="bold">ONLINE</text>
+
+  <!-- LCD Screen Display -->
+  <rect x="18" y="32" width="480" height="54" rx="4" fill="url(#screenGrad)" stroke="#1a2e20" stroke-width="2"/>
+  <rect x="20" y="34" width="476" height="50" rx="3" fill="none" stroke="#003311" stroke-width="1"/>
+
+  <!-- LCD Content -->
+  <text x="32" y="50" class="title-text">▶ [NOW PLAYING] CH.01 - VINTAGE CODING BEATS</text>
+  <text x="32" y="70" class="song-text">Molchat Doma - Sudno (Boris Ryzhy) [Lo-Fi Remix]</text>
+
+  <!-- Mini Animated Equalizer in Screen -->
+  <g fill="#00ff66" opacity="0.9">
+    <rect x="410" width="4" rx="1" class="bar1"/>
+    <rect x="417" width="4" rx="1" class="bar2"/>
+    <rect x="424" width="4" rx="1" class="bar3"/>
+    <rect x="431" width="4" rx="1" class="bar4"/>
+    <rect x="438" width="4" rx="1" class="bar5"/>
+    <rect x="445" width="4" rx="1" class="bar6"/>
+    <rect x="452" width="4" rx="1" class="bar7"/>
+    <rect x="459" width="4" rx="1" class="bar8"/>
+  </g>
+
+  <!-- Player Controls (Left Side Bottom) -->
+  <!-- Prev -->
+  <g transform="translate(18, 94)">
+    <rect width="28" height="22" rx="3" fill="url(#btnGrad)" stroke="#55585f" stroke-width="1"/>
+    <polygon points="17,6 17,16 10,11" class="btn-icon"/>
+    <polygon points="22,6 22,16 15,11" class="btn-icon"/>
+    <rect x="7" y="6" width="2" height="10" class="btn-icon"/>
+  </g>
+
+  <!-- Play -->
+  <g transform="translate(52, 94)">
+    <rect width="32" height="22" rx="3" fill="url(#btnGrad)" stroke="#ff9900" stroke-width="1.5"/>
+    <polygon points="12,5 24,11 12,17" fill="#ffaa00"/>
+  </g>
+
+  <!-- Pause -->
+  <g transform="translate(90, 94)">
+    <rect width="28" height="22" rx="3" fill="url(#btnGrad)" stroke="#55585f" stroke-width="1"/>
+    <rect x="9" y="6" width="3" height="10" class="btn-icon"/>
+    <rect x="16" y="6" width="3" height="10" class="btn-icon"/>
+  </g>
+
+  <!-- Stop -->
+  <g transform="translate(124, 94)">
+    <rect width="28" height="22" rx="3" fill="url(#btnGrad)" stroke="#55585f" stroke-width="1"/>
+    <rect x="9" y="6" width="10" height="10" class="btn-icon"/>
+  </g>
+
+  <!-- Next -->
+  <g transform="translate(158, 94)">
+    <rect width="28" height="22" rx="3" fill="url(#btnGrad)" stroke="#55585f" stroke-width="1"/>
+    <polygon points="11,6 11,16 18,11" class="btn-icon"/>
+    <polygon points="6,6 6,16 13,11" class="btn-icon"/>
+    <rect x="19" y="6" width="2" height="10" class="btn-icon"/>
+  </g>
+
+  <!-- Progress Track Bar -->
+  <g transform="translate(200, 98)">
+    <rect x="0" y="4" width="210" height="6" rx="3" fill="#121316" stroke="#33363d" stroke-width="1"/>
+    <rect x="1" y="5" width="115" height="4" rx="2" fill="url(#accentOrange)"/>
+    <circle cx="116" cy="7" r="5" fill="#ffffff" stroke="#ff7b00" stroke-width="2"/>
+    <text x="220" y="11" font-family="'Courier New', monospace" font-size="10" fill="#999ea8">01:42 / 03:15</text>
+  </g>
+
+  <!-- Right Side: Volume & Stats Widget -->
+  <g transform="translate(512, 32)">
+    <rect width="150" height="84" rx="4" fill="#1a1c20" stroke="#383c44" stroke-width="1.5"/>
+    <text x="12" y="18" class="label-text">BITRATE: <tspan fill="#ffffff">320 KBPS</tspan></text>
+    <text x="12" y="34" class="label-text">FORMAT: <tspan fill="#ffffff">MP3 / STEREO</tspan></text>
+    <text x="12" y="50" class="label-text">EQUALIZER: <tspan fill="#00ff66">ACTIVE</tspan></text>
+
+    <!-- Volume Bars -->
+    <text x="12" y="70" font-family="Arial, sans-serif" font-size="9" fill="#888c96">VOL:</text>
+    <rect x="42" y="62" width="6" height="10" fill="#00ff66"/>
+    <rect x="51" y="62" width="6" height="10" fill="#00ff66"/>
+    <rect x="60" y="62" width="6" height="10" fill="#00ff66"/>
+    <rect x="69" y="62" width="6" height="10" fill="#00ff66"/>
+    <rect x="78" y="62" width="6" height="10" fill="#00ff66"/>
+    <rect x="87" y="62" width="6" height="10" fill="#ffaa00"/>
+    <rect x="96" y="62" width="6" height="10" fill="#ffaa00"/>
+    <rect x="105" y="62" width="6" height="10" fill="#ff3333"/>
+    <rect x="114" y="62" width="6" height="10" fill="#33363e"/>
+    <rect x="123" y="62" width="6" height="10" fill="#33363e"/>
+  </g>
+</svg>
