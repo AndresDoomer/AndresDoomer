@@ -1,6 +1,39 @@
-<div align="center">
-<img src="https://raw.githubusercontent.com/AndresDoomer/AndresDoomer/main/assets/myspace-header.svg" width="100%" alt="MySpace Header" />
-</div>
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+<tr bgcolor="#003366">
+<td style="padding: 12px 16px;">
+<font face="'Trebuchet MS', Arial, sans-serif" size="5" color="#ffffff">
+<b>myspace<font color="#ff9900">.com</font></b>
+</font>
+<br />
+<font face="Verdana, Arial, sans-serif" size="1" color="#c2d9f0">
+<i>a place for developers &amp; retro lovers</i>
+</font>
+</td>
+<td align="right" valign="middle" style="padding: 12px 16px;">
+<font face="Verdana, Arial, sans-serif" size="1" color="#ffffff">
+<b>The Web &nbsp;|&nbsp; MySpace</b><br />
+<font color="#ffcc00"><b>AndresDoomer / Repos</b></font>
+</font>
+</td>
+</tr>
+<tr bgcolor="#1b4d79">
+<td colspan="2" align="center" style="padding: 8px 4px;">
+<font face="Verdana, Arial, sans-serif" size="1" color="#ffffff">
+<b>
+<a href="https://github.com/AndresDoomer"><font color="#ffffff">Home</font></a> &nbsp;|&nbsp;
+<a href="https://github.com/AndresDoomer?tab=repositories"><font color="#ffffff">Browse</font></a> &nbsp;|&nbsp;
+<a href="https://github.com/search"><font color="#ffffff">Search</font></a> &nbsp;|&nbsp;
+<a href="mailto:candresguerrerochavez@gmail.com"><font color="#ffffff">Invite</font></a> &nbsp;|&nbsp;
+<a href="mailto:candresguerrerochavez@gmail.com"><font color="#ffffff">Mail</font></a> &nbsp;|&nbsp;
+<a href="https://github.com/AndresDoomer"><font color="#ffffff">Blog</font></a> &nbsp;|&nbsp;
+<a href="https://github.com/AndresDoomer?tab=stars"><font color="#ffffff">Favorites</font></a> &nbsp;|&nbsp;
+<a href="https://github.com/AndresDoomer"><font color="#ffffff">Forum</font></a> &nbsp;|&nbsp;
+<a href="https://github.com/AndresDoomer"><font color="#ffffff">Music</font></a>
+</b>
+</font>
+</td>
+</tr>
+</table>
 
 <div align="center">
 <table width="100%" border="0" cellspacing="0" cellpadding="4">
@@ -16,14 +49,10 @@
 </table>
 </div>
 
-<table width="100%" border="0" cellspacing="10" cellpadding="0">
-<colgroup>
-<col width="38%" />
-<col width="62%" />
-</colgroup>
+<table width="100%" border="0" cellspacing="12" cellpadding="0">
 <tr>
 <!-- ==================== LEFT COLUMN ==================== -->
-<td width="38%" valign="top">
+<td width="330" valign="top">
 
 <!-- Profile Box -->
 <table width="100%" border="1" bordercolor="#6699cc" cellspacing="0" cellpadding="6">
@@ -165,7 +194,7 @@ https://github.com/AndresDoomer
 </td>
 
 <!-- ==================== RIGHT COLUMN ==================== -->
-<td width="62%" valign="top">
+<td valign="top">
 
 <!-- Extended Network Banner -->
 <table width="100%" border="2" bordercolor="#6699cc" cellspacing="0" cellpadding="8">
