@@ -1,39 +1,6 @@
-<table width="100%" border="0" cellspacing="0" cellpadding="0">
-<tr bgcolor="#003366">
-<td style="padding: 12px 16px;">
-<font face="'Trebuchet MS', Arial, sans-serif" size="5" color="#ffffff">
-<b>myspace<font color="#ff9900">.com</font></b>
-</font>
-<br />
-<font face="Verdana, Arial, sans-serif" size="1" color="#c2d9f0">
-<i>a place for developers &amp; retro lovers</i>
-</font>
-</td>
-<td align="right" valign="middle" style="padding: 12px 16px;">
-<font face="Verdana, Arial, sans-serif" size="1" color="#ffffff">
-<b>The Web &nbsp;|&nbsp; MySpace</b><br />
-<font color="#ffcc00"><b>AndresDoomer / Repos</b></font>
-</font>
-</td>
-</tr>
-<tr bgcolor="#1b4d79">
-<td colspan="2" align="center" style="padding: 8px 4px;">
-<font face="Verdana, Arial, sans-serif" size="1" color="#ffffff">
-<b>
-<a href="https://github.com/AndresDoomer"><font color="#ffffff">Home</font></a> &nbsp;|&nbsp;
-<a href="https://github.com/AndresDoomer?tab=repositories"><font color="#ffffff">Browse</font></a> &nbsp;|&nbsp;
-<a href="https://github.com/search"><font color="#ffffff">Search</font></a> &nbsp;|&nbsp;
-<a href="mailto:candresguerrerochavez@gmail.com"><font color="#ffffff">Invite</font></a> &nbsp;|&nbsp;
-<a href="mailto:candresguerrerochavez@gmail.com"><font color="#ffffff">Mail</font></a> &nbsp;|&nbsp;
-<a href="https://github.com/AndresDoomer"><font color="#ffffff">Blog</font></a> &nbsp;|&nbsp;
-<a href="https://github.com/AndresDoomer?tab=stars"><font color="#ffffff">Favorites</font></a> &nbsp;|&nbsp;
-<a href="https://github.com/AndresDoomer"><font color="#ffffff">Forum</font></a> &nbsp;|&nbsp;
-<a href="https://github.com/AndresDoomer"><font color="#ffffff">Music</font></a>
-</b>
-</font>
-</td>
-</tr>
-</table>
+<div align="center">
+<img src="https://raw.githubusercontent.com/AndresDoomer/AndresDoomer/main/assets/header.svg" width="100%" alt="MySpace Header" />
+</div>
 
 <div align="center">
 <table width="100%" border="0" cellspacing="0" cellpadding="4">
@@ -49,10 +16,10 @@
 </table>
 </div>
 
-<table width="100%" border="0" cellspacing="12" cellpadding="0">
+<table width="100%" border="0" cellspacing="8" cellpadding="0">
 <tr>
-<!-- ==================== LEFT COLUMN ==================== -->
-<td width="330" valign="top">
+<!-- ==================== LEFT COLUMN (300px) ==================== -->
+<td width="300" valign="top">
 
 <!-- Profile Box -->
 <table width="100%" border="1" bordercolor="#6699cc" cellspacing="0" cellpadding="6">
@@ -142,16 +109,16 @@ https://github.com/AndresDoomer
 <td>
 <table width="100%" border="0" cellspacing="2" cellpadding="3">
 <tr>
-<td width="28%" bgcolor="#e5e5e5" valign="top"><b><font face="Verdana" size="1">General</font></b></td>
-<td><font face="Verdana" size="1" color="#222222">Backend Architecture, Modular DDD, Clean APIs, Docker, Linux, Vintage Web</font></td>
+<td width="30%" bgcolor="#e5e5e5" valign="top"><b><font face="Verdana" size="1">General</font></b></td>
+<td><font face="Verdana" size="1" color="#222222">Backend Architecture,<br />Modular DDD, Clean APIs,<br />Docker, Linux, Vintage Web</font></td>
 </tr>
 <tr>
 <td bgcolor="#e5e5e5" valign="top"><b><font face="Verdana" size="1">Music</font></b></td>
-<td><font face="Verdana" size="1" color="#222222">Post-Punk, Synthwave, Rock Clásico, Doomer Wave, Russian Post-Punk</font></td>
+<td><font face="Verdana" size="1" color="#222222">Post-Punk, Synthwave,<br />Rock Clásico, Doomer Wave,<br />Russian Post-Punk</font></td>
 </tr>
 <tr>
 <td bgcolor="#e5e5e5" valign="top"><b><font face="Verdana" size="1">Heroes</font></b></td>
-<td><font face="Verdana" size="1" color="#222222">Linus Torvalds, Taylor Otwell, Dennis Ritchie, Ada Lovelace, Tom</font></td>
+<td><font face="Verdana" size="1" color="#222222">Linus Torvalds, Taylor Otwell,<br />Dennis Ritchie, Ada Lovelace</font></td>
 </tr>
 </table>
 </td>
@@ -176,7 +143,7 @@ https://github.com/AndresDoomer
 </tr>
 <tr>
 <td bgcolor="#e5e5e5"><b><font face="Verdana" size="1">Here for:</font></b></td>
-<td><font face="Verdana" size="1" color="#222222">Networking &amp; Coding</font></td>
+<td><font face="Verdana" size="1" color="#222222">Networking &amp; Code</font></td>
 </tr>
 <tr>
 <td bgcolor="#e5e5e5"><b><font face="Verdana" size="1">OS:</font></b></td>
