@@ -52,6 +52,6 @@
   <!-- Navigation Bar (Sub Header) -->
   <rect y="75" width="950" height="35" fill="url(#navGrad)" stroke="#6fa5d2" stroke-width="1"/>
   <text x="475" y="98" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="bold" fill="#ffffff" text-anchor="middle" letter-spacing="0.5">
-    Home &nbsp;|&nbsp; Browse &nbsp;|&nbsp; Search &nbsp;|&nbsp; Invite &nbsp;|&nbsp; Film &nbsp;|&nbsp; Mail &nbsp;|&nbsp; Blog &nbsp;|&nbsp; Favorites &nbsp;|&nbsp; Forum &nbsp;|&nbsp; Groups &nbsp;|&nbsp; Events &nbsp;|&nbsp; Videos &nbsp;|&nbsp; Music &nbsp;|&nbsp; Classifieds
+    Home | Browse | Search | Invite | Film | Mail | Blog | Favorites | Forum | Groups | Events | Videos | Music | Classifieds
   </text>
 </svg>

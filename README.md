@@ -16,10 +16,14 @@
 </table>
 </div>
 
-<table width="100%" border="0" cellspacing="8" cellpadding="0">
+<table width="100%" border="0" cellspacing="10" cellpadding="0">
+<colgroup>
+<col width="38%" />
+<col width="62%" />
+</colgroup>
 <tr>
 <!-- ==================== LEFT COLUMN ==================== -->
-<td width="40%" valign="top">
+<td width="38%" valign="top">
 
 <!-- Profile Box -->
 <table width="100%" border="1" bordercolor="#6699cc" cellspacing="0" cellpadding="6">
@@ -31,12 +35,12 @@
 <tr>
 <td bgcolor="#ffffff" align="center">
 <br />
-<img src="https://github.com/AndresDoomer.png" width="165" alt="Avatar" style="border: 2px solid #003366;" />
+<img src="https://github.com/AndresDoomer.png" width="150" alt="Avatar" style="border: 2px solid #003366;" />
 <br /><br />
 <font face="Verdana, Arial, sans-serif" size="2" color="#222222">
 <i>"Talk is cheap. Show me the code."</i><br /><br />
-<b>Status:</b> 🚀 Building cool software<br />
-<b>Role:</b> Software &amp; Backend Craftsman<br />
+<b>Status:</b> 🚀 Building systems<br />
+<b>Role:</b> Software &amp; Backend Dev<br />
 <b>Location:</b> Ecuador 🇪🇨<br />
 <b>Last Login:</b> Today!
 </font>
@@ -63,15 +67,15 @@ View My: <a href="https://github.com/AndresDoomer?tab=repositories"><b>Projects<
 <table width="100%" border="0" cellspacing="4" cellpadding="2">
 <tr>
 <td width="50%"><font face="Verdana, Arial, sans-serif" size="1">✉️ <a href="mailto:candresguerrerochavez@gmail.com">Send Message</a></font></td>
-<td width="50%"><font face="Verdana, Arial, sans-serif" size="1">➕ <a href="https://github.com/AndresDoomer?tab=followers">Add to Friends</a></font></td>
+<td width="50%"><font face="Verdana, Arial, sans-serif" size="1">➕ <a href="https://github.com/AndresDoomer?tab=followers">Add Friends</a></font></td>
 </tr>
 <tr>
-<td><font face="Verdana, Arial, sans-serif" size="1">💬 <a href="https://github.com/AndresDoomer">Instant Message</a></font></td>
-<td><font face="Verdana, Arial, sans-serif" size="1">⭐ <a href="https://github.com/AndresDoomer?tab=stars">Add to Favorites</a></font></td>
+<td><font face="Verdana, Arial, sans-serif" size="1">💬 <a href="https://github.com/AndresDoomer">Instant Msg</a></font></td>
+<td><font face="Verdana, Arial, sans-serif" size="1">⭐ <a href="https://github.com/AndresDoomer?tab=stars">Favorites</a></font></td>
 </tr>
 <tr>
-<td><font face="Verdana, Arial, sans-serif" size="1">📁 <a href="https://github.com/AndresDoomer?tab=repositories">View Repos</a></font></td>
-<td><font face="Verdana, Arial, sans-serif" size="1">📢 <a href="https://github.com/AndresDoomer">Forward Profile</a></font></td>
+<td><font face="Verdana, Arial, sans-serif" size="1">📁 <a href="https://github.com/AndresDoomer?tab=repositories">Repositories</a></font></td>
+<td><font face="Verdana, Arial, sans-serif" size="1">📢 <a href="https://github.com/AndresDoomer">Forward</a></font></td>
 </tr>
 </table>
 </td>
@@ -109,16 +113,16 @@ https://github.com/AndresDoomer
 <td>
 <table width="100%" border="0" cellspacing="2" cellpadding="3">
 <tr>
-<td width="30%" bgcolor="#e5e5e5" valign="top"><b><font face="Verdana" size="1">General</font></b></td>
-<td><font face="Verdana" size="1" color="#222222">Software Engineering, Backend Architecture, Modular DDD, Clean APIs, DevOps, Vintage Web 2000s</font></td>
+<td width="28%" bgcolor="#e5e5e5" valign="top"><b><font face="Verdana" size="1">General</font></b></td>
+<td><font face="Verdana" size="1" color="#222222">Backend Architecture, Modular DDD, Clean APIs, Docker, Linux, Vintage Web</font></td>
 </tr>
 <tr>
 <td bgcolor="#e5e5e5" valign="top"><b><font face="Verdana" size="1">Music</font></b></td>
-<td><font face="Verdana" size="1" color="#222222">Post-Punk, Synthwave, Rock Clásico, Doomer Wave, Russian Post-Punk, Lo-Fi Coding Beats</font></td>
+<td><font face="Verdana" size="1" color="#222222">Post-Punk, Synthwave, Rock Clásico, Doomer Wave, Russian Post-Punk</font></td>
 </tr>
 <tr>
 <td bgcolor="#e5e5e5" valign="top"><b><font face="Verdana" size="1">Heroes</font></b></td>
-<td><font face="Verdana" size="1" color="#222222">Linus Torvalds, Taylor Otwell, Dennis Ritchie, Ada Lovelace, Tom from MySpace</font></td>
+<td><font face="Verdana" size="1" color="#222222">Linus Torvalds, Taylor Otwell, Dennis Ritchie, Ada Lovelace, Tom</font></td>
 </tr>
 </table>
 </td>
@@ -143,7 +147,7 @@ https://github.com/AndresDoomer
 </tr>
 <tr>
 <td bgcolor="#e5e5e5"><b><font face="Verdana" size="1">Here for:</font></b></td>
-<td><font face="Verdana" size="1" color="#222222">Networking, Coding &amp; Open Source</font></td>
+<td><font face="Verdana" size="1" color="#222222">Networking &amp; Coding</font></td>
 </tr>
 <tr>
 <td bgcolor="#e5e5e5"><b><font face="Verdana" size="1">OS:</font></b></td>
@@ -161,7 +165,7 @@ https://github.com/AndresDoomer
 </td>
 
 <!-- ==================== RIGHT COLUMN ==================== -->
-<td width="60%" valign="top">
+<td width="62%" valign="top">
 
 <!-- Extended Network Banner -->
 <table width="100%" border="2" bordercolor="#6699cc" cellspacing="0" cellpadding="8">
@@ -199,7 +203,7 @@ https://github.com/AndresDoomer
 <font face="Verdana, Arial, sans-serif" size="2" color="#222222">
 <font color="#ff6600"><b>About me:</b></font><br />
 ¡Hola! Bienvenido a mi rincón retro en la web 💾.<br /><br />
-Soy <b>Andrés</b> (aka <i>AndresDoomer</i>), apasionado por el desarrollo de software y la arquitectura backend. Me especializo en construir soluciones robustas, limpias y escalables con <b>PHP, Laravel (Modular DDD), Docker, bases de datos SQL y entornos Linux</b>.<br /><br />
+Soy <b>Andrés</b> (aka <i>AndresDoomer</i>), desarrollador de software enfocado en arquitectura backend. Me especializo en construir soluciones robustas, limpias y escalables con <b>PHP, Laravel (Modular DDD), Docker, bases de datos SQL y entornos Linux</b>.<br /><br />
 Cuando no estoy refactorizando código o desplegando contenedores, me encontrarás escuchando synthwave, explorando tecnologías retro y optimizando flujos de trabajo.
 <br /><br />
 <font color="#ff6600"><b>Who I'd like to meet:</b></font><br />
@@ -282,15 +286,15 @@ Desarrolladores apasionados, colaboradores de código abierto, entusiastas del s
 <tr bgcolor="#ffffff">
 <td align="center">
 <br />
-<img src="https://raw.githubusercontent.com/AndresDoomer/AndresDoomer/main/assets/btn-php.svg" alt="PHP" />&nbsp;
-<img src="https://raw.githubusercontent.com/AndresDoomer/AndresDoomer/main/assets/btn-laravel.svg" alt="Laravel" />&nbsp;
-<img src="https://raw.githubusercontent.com/AndresDoomer/AndresDoomer/main/assets/btn-docker.svg" alt="Docker" />&nbsp;
-<img src="https://raw.githubusercontent.com/AndresDoomer/AndresDoomer/main/assets/btn-mysql.svg" alt="MySQL" />
+<img src="https://raw.githubusercontent.com/AndresDoomer/AndresDoomer/main/assets/btn-php.svg" width="88" height="31" alt="PHP" />&nbsp;
+<img src="https://raw.githubusercontent.com/AndresDoomer/AndresDoomer/main/assets/btn-laravel.svg" width="88" height="31" alt="Laravel" />&nbsp;
+<img src="https://raw.githubusercontent.com/AndresDoomer/AndresDoomer/main/assets/btn-docker.svg" width="88" height="31" alt="Docker" />&nbsp;
+<img src="https://raw.githubusercontent.com/AndresDoomer/AndresDoomer/main/assets/btn-mysql.svg" width="88" height="31" alt="MySQL" />
 <br /><br />
-<img src="https://raw.githubusercontent.com/AndresDoomer/AndresDoomer/main/assets/btn-linux.svg" alt="Linux" />&nbsp;
-<img src="https://raw.githubusercontent.com/AndresDoomer/AndresDoomer/main/assets/btn-notepad.svg" alt="Notepad" />&nbsp;
-<img src="https://raw.githubusercontent.com/AndresDoomer/AndresDoomer/main/assets/btn-undercon.svg" alt="Under Construction" />&nbsp;
-<img src="https://raw.githubusercontent.com/AndresDoomer/AndresDoomer/main/assets/btn-doomer.svg" alt="Doomer" />
+<img src="https://raw.githubusercontent.com/AndresDoomer/AndresDoomer/main/assets/btn-linux.svg" width="88" height="31" alt="Linux" />&nbsp;
+<img src="https://raw.githubusercontent.com/AndresDoomer/AndresDoomer/main/assets/btn-notepad.svg" width="88" height="31" alt="Notepad" />&nbsp;
+<img src="https://raw.githubusercontent.com/AndresDoomer/AndresDoomer/main/assets/btn-undercon.svg" width="88" height="31" alt="Under Construction" />&nbsp;
+<img src="https://raw.githubusercontent.com/AndresDoomer/AndresDoomer/main/assets/btn-doomer.svg" width="88" height="31" alt="Doomer" />
 <br /><br />
 </td>
 </tr>
@@ -308,9 +312,9 @@ Desarrolladores apasionados, colaboradores de código abierto, entusiastas del s
 <tr bgcolor="#ffffff" align="center">
 <td>
 <br />
-<img src="https://github-readme-stats.vercel.app/api?username=AndresDoomer&show_icons=true&theme=synthwave&hide_border=false" width="92%" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=AndresDoomer&show_icons=true&theme=synthwave&hide_border=false" width="100%" alt="GitHub Stats" />
 <br /><br />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndresDoomer&layout=compact&theme=synthwave&hide_border=false" width="92%" alt="Top Langs" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndresDoomer&layout=compact&theme=synthwave&hide_border=false" width="100%" alt="Top Langs" />
 <br /><br />
 </td>
 </tr>
