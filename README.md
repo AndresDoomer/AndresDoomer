@@ -257,7 +257,7 @@ Desarrolladores apasionados, colaboradores de código abierto, entusiastas del s
 </td>
 <td width="25%">
 <font face="Verdana" size="1"><b><a href="https://es.wikipedia.org/wiki/Ada_Lovelace">Ada</a></b></font><br />
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Ada_Lovelace_portrait.jpg/220px-Ada_Lovelace_portrait.jpg" width="70" height="70" style="border: 1px solid #333;" alt="Ada Lovelace" />
+<img src="https://raw.githubusercontent.com/AndresDoomer/AndresDoomer/main/assets/ada.svg" width="70" height="70" style="border: 1px solid #333;" alt="Ada Lovelace" />
 </td>
 <td width="25%">
 <font face="Verdana" size="1"><b><a href="https://github.com/AndresDoomer">¡TÚ!</a></b></font><br />
